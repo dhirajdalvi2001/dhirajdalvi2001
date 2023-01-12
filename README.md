@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajdalvi2001&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajdalvi2001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhirajpdalvi" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajpdalvi?logo=twitter&style=for-the-badge" alt="dhirajpdalvi" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/dhirajpdalvi" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajpdalvi?logo=twitter&style=for-the-badge" alt="dhirajpdalvi" /></a> </p> -->
 
 - 🔭 I’m currently working on [a social media chat app called Inter-Act](https://github.com/dhirajdalvi2001/Inter-Act)
 
