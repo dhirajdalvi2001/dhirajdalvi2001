@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Dalvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajdalvi2001&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajdalvi2001" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=dhirajdalvi2001&label=Profile%20views&color=0e75b6&style=flat](https://www.lambdatest.com/resources/images/news24.gif)" alt="dhirajdalvi2001" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/dhirajpdalvi" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajpdalvi?logo=twitter&style=for-the-badge" alt="dhirajpdalvi" /></a> </p> -->
 
